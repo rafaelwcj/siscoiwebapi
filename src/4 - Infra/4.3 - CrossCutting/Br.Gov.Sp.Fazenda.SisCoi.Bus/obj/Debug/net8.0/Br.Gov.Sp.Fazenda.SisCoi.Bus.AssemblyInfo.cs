@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Br.Gov.Sp.Fazenda.SisCoi.Bus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51cae6096f5160bc73afda83523b7c7289ef1303")]
 [assembly: System.Reflection.AssemblyProductAttribute("Br.Gov.Sp.Fazenda.SisCoi.Bus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Br.Gov.Sp.Fazenda.SisCoi.Bus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

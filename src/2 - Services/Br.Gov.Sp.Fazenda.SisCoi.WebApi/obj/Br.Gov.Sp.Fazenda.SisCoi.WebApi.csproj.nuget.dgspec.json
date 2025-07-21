@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj": {}
+    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj": {
+    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj",
+        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj",
         "projectName": "Br.Gov.Sp.Fazenda.SisCoi.WebApi",
-        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj",
+        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\obj\\",
+        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj"
               },
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj"
               },
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj"
               }
             }
           }
@@ -63,11 +63,19 @@
           "dependencies": {
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[10.0.1, )"
+              "version": "[11.1.0, )"
             },
             "Microsoft.AspNetCore.Hosting": {
               "target": "Package",
               "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
@@ -92,6 +100,14 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.3.0, )"
+            },
+            "System.IO.Packaging": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "System.Security.Cryptography.Pkcs": {
+              "target": "Package",
+              "version": "[9.0.7, )"
             },
             "System.ServiceModel.Http": {
               "target": "Package",
@@ -121,18 +137,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj": {
+    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj",
         "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Domain.Core",
-        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj",
+        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\obj\\",
+        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,8 +170,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj"
               }
             }
           }
@@ -178,7 +194,7 @@
           "dependencies": {
             "MediatR": {
               "target": "Package",
-              "version": "[10.0.1, )"
+              "version": "[11.1.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -213,18 +229,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
+    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj",
         "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Domain",
-        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj",
+        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -246,11 +262,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj"
               },
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj"
               }
             }
           }
@@ -286,18 +302,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
+    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
+        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
         "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Entities",
-        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
+        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\obj\\",
+        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -362,18 +378,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj": {
+    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj",
+        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj",
         "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Data",
-        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj",
+        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\obj\\",
+        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -395,14 +411,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj"
               },
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj"
               },
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj"
               }
             }
           }
@@ -452,18 +468,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj": {
+    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj",
+        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj",
         "projectName": "Br.Gov.Sp.Fazenda.SisCoi.IoC",
-        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj",
+        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\obj\\",
+        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -485,14 +501,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj"
               },
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj"
               },
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj"
               }
             }
           }
@@ -538,18 +554,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj": {
+    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj",
+        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj",
         "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Bus",
-        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj",
+        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\obj\\",
+        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -571,8 +587,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj"
               }
             }
           }
@@ -608,18 +624,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj": {
+    "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
+        "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
         "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Util",
-        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
+        "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\obj\\",
+        "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -641,8 +657,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
-                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj"
+              "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
+                "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj"
               }
             }
           }
@@ -720,7 +736,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

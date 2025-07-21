@@ -586,7 +586,10 @@
           "System.Data.SqlClient": "4.8.6"
         },
         "runtime": {
-          "Br.Gov.Sp.Fazenda.SisCoi.Entities.dll": {}
+          "Br.Gov.Sp.Fazenda.SisCoi.Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Br.Gov.Sp.Fazenda.SisCoi.Util/1.0.0": {
@@ -604,7 +607,10 @@
           "System.IO.Packaging": "6.0.0"
         },
         "runtime": {
-          "Br.Gov.Sp.Fazenda.SisCoi.Util.dll": {}
+          "Br.Gov.Sp.Fazenda.SisCoi.Util.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

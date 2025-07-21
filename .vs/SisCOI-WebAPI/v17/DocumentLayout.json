@@ -1,36 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|c:\\projetos\\siscoi-webapi\\siscoi-webapi\\src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\br.gov.sp.fazenda.siscoi.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|solutionrelative:src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\br.gov.sp.fazenda.siscoi.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|c:\\projetos\\siscoi-webapi\\siscoi-webapi\\src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|solutionrelative:src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|c:\\projetos\\siscoi-webapi\\siscoi-webapi\\src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|solutionrelative:src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|c:\\projetos\\siscoi-webapi\\siscoi-webapi\\src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|solutionrelative:src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|c:\\projetos\\siscoi-webapi\\siscoi-webapi\\src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|solutionrelative:src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|c:\\projetos\\siscoi-webapi\\siscoi-webapi\\src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\wsfederation\\wsfederationauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|solutionrelative:src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\wsfederation\\wsfederationauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|c:\\projetos\\siscoi-webapi\\siscoi-webapi\\src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\wsfederation\\wsfederationbuilderauthenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC264346-A9AE-47B8-9DA7-5AE447A2EF19}|src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj|solutionrelative:src\\2 - services\\br.gov.sp.fazenda.siscoi.webapi\\wsfederation\\wsfederationbuilderauthenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,95 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Br.Gov.Sp.Fazenda.SisCoi.WebApi",
-              "DocumentMoniker": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj",
-              "RelativeDocumentMoniker": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj",
-              "ToolTip": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj",
-              "RelativeToolTip": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-24T05:09:04.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Program.cs",
-              "ToolTip": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Program.cs",
-              "RelativeToolTip": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T09:39:10.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Startup.cs",
-              "RelativeDocumentMoniker": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Startup.cs",
-              "ToolTip": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Startup.cs",
-              "RelativeToolTip": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Startup.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T09:39:01.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-23T09:29:24.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\appsettings.json",
-              "RelativeToolTip": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-23T09:29:17.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WsFederationAuthenticationHandler.cs",
-              "DocumentMoniker": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\WsFederation\\WsFederationAuthenticationHandler.cs",
-              "RelativeDocumentMoniker": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\WsFederation\\WsFederationAuthenticationHandler.cs",
-              "ToolTip": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\WsFederation\\WsFederationAuthenticationHandler.cs",
-              "RelativeToolTip": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\WsFederation\\WsFederationAuthenticationHandler.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T09:49:21.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WsFederationBuilderAuthenticationExtensions.cs",
-              "DocumentMoniker": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\WsFederation\\WsFederationBuilderAuthenticationExtensions.cs",
-              "RelativeDocumentMoniker": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\WsFederation\\WsFederationBuilderAuthenticationExtensions.cs",
-              "ToolTip": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\WsFederation\\WsFederationBuilderAuthenticationExtensions.cs",
-              "RelativeToolTip": "src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\WsFederation\\WsFederationBuilderAuthenticationExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T09:49:10.286Z"
             }
           ]
         }

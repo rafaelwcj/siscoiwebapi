@@ -46,3 +46,16 @@ C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.
 C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\refint\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
 C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.pdb
 C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\ref\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\bin\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.deps.json
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\bin\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\bin\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.pdb
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj.AssemblyReference.cache
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.AssemblyInfoInputs.cache
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.AssemblyInfo.cs
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj.CoreCompileInputs.cache
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.sourcelink.json
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\refint\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.pdb
+C:\Projetos\SisCOI-WebApi\SisCOI-WebApi\siscoiwebapi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Debug\net8.0\ref\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll

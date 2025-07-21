@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DyQV26e6/xM=",
+  "dgSpecHash": "DsP7tWO7QmY=",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Console\\Br.Gov.Sp.Fazenda.SisCoi.Console.csproj",
+  "projectFilePath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Console\\Br.Gov.Sp.Fazenda.SisCoi.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.7\\microsoft.aspnetcore.hosting.2.2.7.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",

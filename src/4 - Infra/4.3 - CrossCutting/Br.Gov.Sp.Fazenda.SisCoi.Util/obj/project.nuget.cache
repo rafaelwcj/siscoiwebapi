@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mxWAifSXMok=",
+  "dgSpecHash": "MzKl4jhndXc=",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
+  "projectFilePath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.7\\microsoft.aspnetcore.hosting.2.2.7.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
@@ -61,9 +61,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "O pacote 'System.IO.Packaging' 6.0.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-f32c-w444-8ppv",
-      "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
+      "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
+      "filePath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
       "libraryId": "System.IO.Packaging",
       "targetGraphs": [
         "net8.0"
@@ -73,9 +73,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "O pacote 'System.IO.Packaging' 6.0.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
-      "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
+      "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
+      "filePath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
       "libraryId": "System.IO.Packaging",
       "targetGraphs": [
         "net8.0"

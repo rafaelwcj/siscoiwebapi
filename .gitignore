@@ -12,6 +12,9 @@
 /package-lock.json
 /yarn.lock
 
+#Diretório de cache/opção do Visual Studio 2022
+.vs/
+
 # Environment files
 /.env
 

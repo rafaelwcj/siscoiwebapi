@@ -470,11 +470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
+      "projectUniqueName": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
       "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Entities",
-      "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
+      "projectPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\obj\\",
+      "outputPath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -539,7 +539,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

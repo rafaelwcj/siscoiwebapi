@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ozy+QTtp5R8=",
+  "dgSpecHash": "1voBs2oG5YU=",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
+  "projectFilePath": "C:\\Projetos\\SisCOI-WebApi\\SisCOI-WebApi\\siscoiwebapi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
