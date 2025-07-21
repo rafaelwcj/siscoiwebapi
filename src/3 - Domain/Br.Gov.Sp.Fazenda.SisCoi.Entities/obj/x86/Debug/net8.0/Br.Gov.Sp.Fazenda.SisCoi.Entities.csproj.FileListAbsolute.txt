@@ -1,0 +1,12 @@
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\bin\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.deps.json
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\bin\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\bin\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.pdb
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj.AssemblyReference.cache
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.AssemblyInfoInputs.cache
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.AssemblyInfo.cs
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\x86\Debug\net8.0\refint\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.pdb
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\x86\Debug\net8.0\ref\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll

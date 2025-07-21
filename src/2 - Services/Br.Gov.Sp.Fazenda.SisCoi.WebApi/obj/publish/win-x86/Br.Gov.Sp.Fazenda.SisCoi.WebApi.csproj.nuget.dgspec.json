@@ -1,0 +1,756 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj",
+        "projectName": "Br.Gov.Sp.Fazenda.SisCoi.WebApi",
+        "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\Br.Gov.Sp.Fazenda.SisCoi.WebApi.csproj",
+        "packagesPath": "C:\\Users\\rwcjesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\2 - Services\\Br.Gov.Sp.Fazenda.SisCoi.WebApi\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rwcjesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://ads.intra.fazenda.sp.gov.br/tfs/PRODUTOS/_packaging/sefazFeed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj"
+              },
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj"
+              },
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.WsFederation": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[5.48.0, )"
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[2.17.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "SefazIdentityClaims": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "SefazIdentityTokenValidation": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj",
+        "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Domain.Core",
+        "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\rwcjesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rwcjesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://ads.intra.fazenda.sp.gov.br/tfs/PRODUTOS/_packaging/sefazFeed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj",
+        "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Domain",
+        "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj",
+        "packagesPath": "C:\\Users\\rwcjesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rwcjesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://ads.intra.fazenda.sp.gov.br/tfs/PRODUTOS/_packaging/sefazFeed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj"
+              },
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
+        "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Entities",
+        "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj",
+        "packagesPath": "C:\\Users\\rwcjesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rwcjesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://ads.intra.fazenda.sp.gov.br/tfs/PRODUTOS/_packaging/sefazFeed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj",
+        "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Data",
+        "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj",
+        "packagesPath": "C:\\Users\\rwcjesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rwcjesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://ads.intra.fazenda.sp.gov.br/tfs/PRODUTOS/_packaging/sefazFeed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj"
+              },
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj"
+              },
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj",
+        "projectName": "Br.Gov.Sp.Fazenda.SisCoi.IoC",
+        "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC.csproj",
+        "packagesPath": "C:\\Users\\rwcjesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.2 - IoC\\Br.Gov.Sp.Fazenda.SisCoi.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rwcjesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://ads.intra.fazenda.sp.gov.br/tfs/PRODUTOS/_packaging/sefazFeed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.csproj"
+              },
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.1 - Data\\Br.Gov.Sp.Fazenda.SisCoi.Data\\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj"
+              },
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj",
+        "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Bus",
+        "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj",
+        "packagesPath": "C:\\Users\\rwcjesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rwcjesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://ads.intra.fazenda.sp.gov.br/tfs/PRODUTOS/_packaging/sefazFeed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
+        "projectName": "Br.Gov.Sp.Fazenda.SisCoi.Util",
+        "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj",
+        "packagesPath": "C:\\Users\\rwcjesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\4 - Infra\\4.3 - CrossCutting\\Br.Gov.Sp.Fazenda.SisCoi.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rwcjesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://ads.intra.fazenda.sp.gov.br/tfs/PRODUTOS/_packaging/sefazFeed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj": {
+                "projectPath": "C:\\Users\\rwcjesus\\source\\repos\\Projetos-Desenv\\SisCOI-WebApi\\src\\3 - Domain\\Br.Gov.Sp.Fazenda.SisCoi.Entities\\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "System.DirectoryServices": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.IO.Packaging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

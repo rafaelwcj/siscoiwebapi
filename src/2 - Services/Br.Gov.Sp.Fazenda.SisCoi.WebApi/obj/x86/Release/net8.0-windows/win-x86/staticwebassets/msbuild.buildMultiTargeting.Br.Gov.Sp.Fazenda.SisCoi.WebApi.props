@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Br.Gov.Sp.Fazenda.SisCoi.WebApi.props" />
+</Project>

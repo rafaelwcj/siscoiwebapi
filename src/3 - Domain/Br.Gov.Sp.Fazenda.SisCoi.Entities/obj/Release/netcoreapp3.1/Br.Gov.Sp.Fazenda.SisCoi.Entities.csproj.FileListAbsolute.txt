@@ -1,0 +1,12 @@
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\bin\Release\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.deps.json
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\bin\Release\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\bin\Release\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.pdb
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\bin\Release\netcoreapp3.1\Microsoft.Web.Administration.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Release\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Release\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.AssemblyInfoInputs.cache
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Release\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.AssemblyInfo.cs
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Release\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Release\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj.CopyComplete
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Release\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Release\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.pdb
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Entities\obj\Release\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.csproj.AssemblyReference.cache

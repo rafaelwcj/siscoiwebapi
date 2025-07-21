@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>\\SRV72447\secure\siscoi-webapi</_PublishTargetUrl>
+    <History>True|2024-11-12T12:45:26.5530718Z;True|2024-11-12T09:41:47.0253860-03:00;True|2024-11-12T09:35:39.2451241-03:00;True|2024-11-05T12:03:20.2684950-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

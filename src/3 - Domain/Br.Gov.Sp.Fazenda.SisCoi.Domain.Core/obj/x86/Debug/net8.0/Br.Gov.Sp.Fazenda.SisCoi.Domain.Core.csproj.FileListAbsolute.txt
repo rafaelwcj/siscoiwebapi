@@ -1,0 +1,12 @@
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\bin\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.deps.json
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\bin\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.dll
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\bin\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.pdb
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.AssemblyInfo.cs
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.dll
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\obj\x86\Debug\net8.0\refint\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.dll
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\obj\x86\Debug\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.pdb
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\3 - Domain\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core\obj\x86\Debug\net8.0\ref\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.dll

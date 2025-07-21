@@ -1,0 +1,16 @@
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.exe
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.deps.json
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.runtimeconfig.json
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.runtimeconfig.dev.json
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.pdb
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.csproj.AssemblyReference.cache
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.AssemblyInfoInputs.cache
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.AssemblyInfo.cs
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.csproj.CoreCompileInputs.cache
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.csproj.CopyComplete
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.pdb
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Console\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Console.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Data.deps.json
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Data.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Data.pdb
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Domain.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\bin\Debug\netcoreapp3.1\Microsoft.Web.Administration.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Domain.pdb
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\bin\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Entities.pdb
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj.AssemblyReference.cache
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Data.AssemblyInfoInputs.cache
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Data.AssemblyInfo.cs
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj.CoreCompileInputs.cache
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Data.csproj.CopyComplete
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Data.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.1 - Data\Br.Gov.Sp.Fazenda.SisCoi.Data\obj\Debug\netcoreapp3.1\Br.Gov.Sp.Fazenda.SisCoi.Data.pdb

@@ -1,0 +1,26 @@
+﻿@model Br.Gov.Sp.Fazenda.SisCoi.WebApi.Model.UsuarioModel
+
+@{
+    ViewData["Title"] = "Claims";
+}
+
+<br />
+<br />
+
+<h2>Claims</h2>
+<ul>
+    @foreach (var claim in User.Claims)
+    {
+        <li>@claim.Type - @claim.Value</li>
+    }
+</ul>
+
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.0.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    window.onload = function () {
+        var usuario = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model));
+        if (usuario != null) {
+            window.opener.postMessage(usuario, '*')
+        }
+    }
+</script>

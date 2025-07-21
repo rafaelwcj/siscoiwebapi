@@ -1,0 +1,6 @@
+C:\SisCoi\Console\Br.Gov.Sp.Fazenda.SisCoi.Console.exe
+C:\SisCoi\Console\Br.Gov.Sp.Fazenda.SisCoi.Console.dll
+C:\SisCoi\Console\Br.Gov.Sp.Fazenda.SisCoi.Console.deps.json
+C:\SisCoi\Console\Br.Gov.Sp.Fazenda.SisCoi.Console.runtimeconfig.json
+C:\SisCoi\Console\Br.Gov.Sp.Fazenda.SisCoi.Console.pdb
+C:\SisCoi\Console\Microsoft.Extensions.Logging.Abstractions.dll

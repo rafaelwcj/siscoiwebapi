@@ -1,0 +1,15 @@
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\bin\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Bus.deps.json
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\bin\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Bus.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\bin\Debug\net5.0\ref\Br.Gov.Sp.Fazenda.SisCoi.Bus.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\bin\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Bus.pdb
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\bin\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\bin\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Domain.Core.pdb
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\obj\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj.AssemblyReference.cache
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\obj\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\obj\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Bus.AssemblyInfoInputs.cache
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\obj\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Bus.AssemblyInfo.cs
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\obj\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj.CoreCompileInputs.cache
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\obj\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Bus.csproj.CopyComplete
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\obj\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Bus.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\obj\Debug\net5.0\ref\Br.Gov.Sp.Fazenda.SisCoi.Bus.dll
+C:\Users\rwcjesus\source\repos\SisCOI.WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Bus\obj\Debug\net5.0\Br.Gov.Sp.Fazenda.SisCoi.Bus.pdb

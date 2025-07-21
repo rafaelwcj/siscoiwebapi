@@ -1,0 +1,142 @@
+[
+  {
+    "ContainingType": "Br.Gov.Sp.Fazenda.SisCoi.WebApi.Controllers.AdminController",
+    "Method": "About",
+    "RelativePath": "api/Admin/Sobre",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Br.Gov.Sp.Fazenda.SisCoi.WebApi.Controllers.CmdbServicesController",
+    "Method": "Get",
+    "RelativePath": "api/CmdbServices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtInicial",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtFinal",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Br.Gov.Sp.Fazenda.SisCoi.WebApi.Controllers.CmdbServicesController",
+    "Method": "ListarAtivosPorDatas",
+    "RelativePath": "api/CmdbServices/ListarAtivosPorPeriodo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtInicial",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtFinal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cnpj",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Br.Gov.Sp.Fazenda.SisCoi.WebApi.Controllers.IncidentesController",
+    "Method": "Get",
+    "RelativePath": "api/Incidentes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Br.Gov.Sp.Fazenda.SisCoi.WebApi.Controllers.IncidentesController",
+    "Method": "Listar",
+    "RelativePath": "api/Incidentes/Listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtInicial",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtFinal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cnpj",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Br.Gov.Sp.Fazenda.SisCoi.WebApi.Controllers.LoginController",
+    "Method": "Post",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "Br.Gov.Sp.Fazenda.SisCoi.WebApi.Model.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Br.Gov.Sp.Fazenda.SisCoi.WebApi.Controllers.ServidoresController",
+    "Method": "listar",
+    "RelativePath": "api/Servidores/Listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Br.Gov.Sp.Fazenda.SisCoi.WebApi.Controllers.SolicitacaoBkpController",
+    "Method": "Get",
+    "RelativePath": "api/SolicitacaoBkp/Listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "servidor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "depto",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

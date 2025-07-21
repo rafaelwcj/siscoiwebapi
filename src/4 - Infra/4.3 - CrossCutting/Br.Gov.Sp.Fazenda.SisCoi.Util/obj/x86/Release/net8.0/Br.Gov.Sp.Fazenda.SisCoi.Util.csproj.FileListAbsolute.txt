@@ -1,0 +1,15 @@
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\bin\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Util.deps.json
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\bin\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Util.dll
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\bin\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Util.pdb
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\bin\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.dll
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\bin\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Entities.pdb
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\obj\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj.AssemblyReference.cache
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\obj\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\obj\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Util.AssemblyInfoInputs.cache
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\obj\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Util.AssemblyInfo.cs
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\obj\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Util.csproj.CoreCompileInputs.cache
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\obj\x86\Release\net8.0\Br.Gov.S.402BADCC.Up2Date
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\obj\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Util.dll
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\obj\x86\Release\net8.0\refint\Br.Gov.Sp.Fazenda.SisCoi.Util.dll
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\obj\x86\Release\net8.0\Br.Gov.Sp.Fazenda.SisCoi.Util.pdb
+C:\Users\rwcjesus\source\repos\Projetos-Desenv\SisCOI-WebApi\src\4 - Infra\4.3 - CrossCutting\Br.Gov.Sp.Fazenda.SisCoi.Util\obj\x86\Release\net8.0\ref\Br.Gov.Sp.Fazenda.SisCoi.Util.dll
